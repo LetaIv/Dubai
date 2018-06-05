@@ -1,5 +1,7 @@
 #!/usr/bin/python
 
+#Author: Ivan Letal
+
 from bs4 import BeautifulSoup
 from BeautifulSoup import BeautifulSoup
 import urllib2
