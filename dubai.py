@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 #Author: Ivan Letal
+# Testing version
 
 from bs4 import BeautifulSoup
 from BeautifulSoup import BeautifulSoup
