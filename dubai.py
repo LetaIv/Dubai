@@ -16,7 +16,7 @@ import os
 
 
 log = './motorbike.last'
-recipients = ['dareback@gmail.com']
+recipients = ['someone@yourdomain.com']
 url = 'https://online.dubaidutyfree.com/ddf/browse/subcategory_win_withddf.jsp?navAction=push&navCount=1&categoryName=+Finest+Surprise+-+Bike&categoryId=cat520005'
 
 
